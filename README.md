@@ -23,7 +23,7 @@ An Open Source Clone Of Geometry Dash Using Godot and GDScript
 - 90% Accurate Ground
 - Music
 - Death SFX
-- High Optimization (3x FPS)
+- High Optimization
 - Text with font
 - Android Support (Might be buggy)
 
