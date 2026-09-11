@@ -2,9 +2,11 @@
 An Open Source Clone Of Geometry Dash Using Godot and GDScript 
 
 > [!Important]  
-> This is a vibecoded port, i may rewrite this project.
+> This is a vibecoded port, i may rewrite this project. Any serious project that i make will not be vibecoded.
+>
+> AI used in this project: ChatGPT
 
-any project after Undertale-For-Wii will not be vibecoded
+
 
 
 <img width="1279" height="719" alt="Captura de pantalla 2026-01-09 161849" src="https://github.com/user-attachments/assets/593806e0-a145-43e9-bf12-a306cf1a9254" />
